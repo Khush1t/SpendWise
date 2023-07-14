@@ -8,6 +8,10 @@ An Expense Tracker application to keep a track of all the expenditure and income
 ### Link to the Google Sheet :
 https://docs.google.com/spreadsheets/d/1EO2Fx6Qctptu59cNt0XNDA_lF2C8rFWkwW1KJTMKMTI/edit#gid=0
 
+## SCREENSHOTS
+### HOME SCREEN
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
