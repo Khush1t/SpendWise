@@ -1,6 +1,12 @@
 # SpendWise
-
-A new Flutter project.
+An Expense Tracker application to keep a track of all the expenditure and income of an individual.
+- KEY FUNCTIONALITIES
+  - Add Expense
+  - Add Income
+  - Track the total balance in the account
+  - Integration of the data with Google sheets
+### Link to the Google Sheet :
+https://docs.google.com/spreadsheets/d/1EO2Fx6Qctptu59cNt0XNDA_lF2C8rFWkwW1KJTMKMTI/edit#gid=0
 
 ## Getting Started
 
